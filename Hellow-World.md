@@ -224,10 +224,3 @@ helloworld-ciclo-kbd-NNAA1-NNAA2/
   * Claridad del código.
   * Comprensión de los atributos de calidad involucrados.
 
----
-
-Si quieres, en el próximo mensaje puedo:
-
-* Ajustar el **nivel de dificultad** (más o menos exigente).
-* Agregar una **rúbrica de evaluación**.
-* Conectar explícamente la tarea con **atributos de calidad de ISO/IEC 25010** o **tácticas arquitectónicas** 😉
