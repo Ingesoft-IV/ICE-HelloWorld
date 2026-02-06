@@ -12,10 +12,10 @@ La actividad también busca que los estudiantes practiquen **despliegue distribu
 
 La tarea se debe realizar **en parejas**.
 
-Cada pareja deberá analizar, modificar y desplegar el código base proporcionado en el archivo:
+Cada pareja deberá analizar, modificar y desplegar el código base proporcionado en el repositorio:
 
 ```
-helloworld-ret.zip
+https://github.com/Ingesoft-IV/ICE-HelloWorld.git
 ```
 
 ---
